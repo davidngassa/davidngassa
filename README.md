@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Ngassa
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javscript Frameworks
+- 👀 I’m interested in Software/Web Development
+- 🌱 I’m currently learning Javascript Frameworks
 - 📫 How to reach me ngassadavid97@gmail.com
 
 <!---
