@@ -1,7 +1,6 @@
 - 👋 Hi, I’m David Ngassa
 - 👀 I’m interested in Software/Web Development
-- 🌱 I’m currently learning Javascript Frameworks
-- 📫 How to reach me ngassadavid97@gmail.com
+- 📫 How to reach me davidngassa.dev@gmail.com
 
 <!---
 davidngassa/davidngassa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
